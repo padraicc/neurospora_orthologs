@@ -1,4 +1,4 @@
-#Ortholog detection and phylogenetic analysis of Neurospora proteins
+# Ortholog detection and phylogenetic analysis of Neurospora proteins
 
 I tried two pipelines for detecting orthologs between the Neurospora proteomes. These were Orthofinder and Multiparanoid.
 
@@ -6,7 +6,7 @@ I tried two pipelines for detecting orthologs between the Neurospora proteomes. 
 
 	$ sh download_data.sh
 
-##1.) Orthofinder
+## 1.) Orthofinder
 
 Reference: [https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0721-2](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0721-2) 
 
@@ -32,7 +32,7 @@ The CDS alignments were them trimmed using trimAl v1.4.
 	$ sh trim_alignments.sh
 
 
-##2.) Multiparanoid
+## 2.) Multiparanoid
 
 reference: [http://multiparanoid.sbc.su.se/](http://multiparanoid.sbc.su.se/)
 
