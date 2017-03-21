@@ -1,0 +1,23 @@
+#!/usr/bin/env bash
+
+#mv protein_fasta_files/AnnotatedNcraNC12.Proteins.fasta protein_fasta_files/NcraNC12.Proteins.fasta
+#mv protein_fasta_files/AnnotatedNdis8579.Proteins.fasta protein_fasta_files/NcraNC12.Proteins.fasta
+#mv protein_fasta_files/AnnotatedNhispaniola8817.Proteins.fasta protein_fasta_files/NcraNC12.Proteins.fasta
+#mv protein_fasta_files/AnnotatedNIntermedia8761.Proteins.fasta protein_fasta_files/NcraNC12.Proteins.fasta
+#mv protein_fasta_files/AnnotatedNmetzenbergii10397.Proteins.fasta protein_fasta_files/NcraNC12.Proteins.fasta
+#mv protein_fasta_files/AnnotatedNsitophilaW1434.Proteins.fasta protein_fasta_files/NcraNC12.Proteins.fasta
+#mv protein_fasta_files/AnnotatedNtet10752L9.Proteins.fasta protein_fasta_files/NcraNC12.Proteins.fasta
+#mv protein_fasta_files/AnnotatedNtet2503L8.Proteins.fasta protein_fasta_files/NcraNC12.Proteins.fasta
+#mv protein_fasta_files/AnnotatedNtet2508L6.Proteins.fasta protein_fasta_files/NcraNC12.Proteins.fasta
+#mv protein_fasta_files/AnnotatedNtet9045L7.Proteins.fasta protein_fasta_files/NcraNC12.Proteins.fasta
+
+mv cds_fasta_files/AnnotatedCDSNcraNC12.fasta cds_fasta_files/NcraNC12.CDS.fasta
+mv cds_fasta_files/AnnotatedCDSNdis8579.fasta cds_fasta_files/Ndis8579.CDS.fasta
+mv cds_fasta_files/AnnotatedCDSNhispaniola8817.fasta cds_fasta_files/Nhispaniola8817.CDS.fasta
+mv cds_fasta_files/AnnotatedCDSNIntermedia8761.fasta cds_fasta_files/NIntermedia8761.CDS.fasta
+mv cds_fasta_files/AnnotatedCDSNmetzenbergii10397.fasta cds_fasta_files/Nmetzenbergii10397.CDS.fasta
+mv cds_fasta_files/AnnotatedCDSNsitophilaW1434.fasta cds_fasta_files/NsitophilaW1434.CDS.fasta
+mv cds_fasta_files/AnnotatedCDSNtet10752L9.fasta cds_fasta_files/Ntet10752L9.CDS.fasta
+mv cds_fasta_files/AnnotatedCDSNtet2503L8.fasta cds_fasta_files/Ntet2503L8.CDS.fasta
+mv cds_fasta_files/AnnotatedCDSNtet2508L6.fasta cds_fasta_files/Ntet2508L6.CDS.fasta
+mv cds_fasta_files/AnnotatedCDSNtet9045L7.fasta cds_fasta_files/Ntet9045L7.CDS.fasta

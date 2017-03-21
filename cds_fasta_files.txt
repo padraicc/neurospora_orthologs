@@ -1,0 +1,10 @@
+cds_fasta_files/NcraNC12.CDS.fasta
+cds_fasta_files/Ndis8579.CDS.fasta
+cds_fasta_files/Nhispaniola8817.CDS.fasta
+cds_fasta_files/NIntermedia8761.CDS.fasta
+cds_fasta_files/Nmetzenbergii10397.CDS.fasta
+cds_fasta_files/NsitophilaW1434.CDS.fasta
+cds_fasta_files/Ntet10752L9.CDS.fasta
+cds_fasta_files/Ntet2503L8.CDS.fasta
+cds_fasta_files/Ntet2508L6.CDS.fasta
+cds_fasta_files/Ntet9045L7.CDS.fasta

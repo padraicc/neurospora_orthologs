@@ -1,0 +1,10 @@
+protein_fasta_files/NcraNC12.Proteins.fasta
+protein_fasta_files/Ndis8579.Proteins.fasta
+protein_fasta_files/Nhispaniola8817.Proteins.fasta
+protein_fasta_files/NIntermedia8761.Proteins.fasta
+protein_fasta_files/Nmetzenbergii10397.Proteins.fasta
+protein_fasta_files/NsitophilaW1434.Proteins.fasta
+protein_fasta_files/Ntet10752L9.Proteins.fasta
+protein_fasta_files/Ntet2503L8.Proteins.fasta
+protein_fasta_files/Ntet2508L6.Proteins.fasta
+protein_fasta_files/Ntet9045L7.Proteins.fasta
