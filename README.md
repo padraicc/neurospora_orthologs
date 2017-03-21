@@ -19,10 +19,12 @@ Table S5 of Zhao et al. (2015) which listed genes in the N. crassa genome show e
 	
 	$ sh extract_filter_orthologs.sh
 	
-These filtering steps resulted in a set of 3135 single copy orthologs which were used for the phylogenetic analysis described below. Next, I aligned the CDS orthologs aligned using muscle v3.8.31 .
+These filtering steps resulted in a set of 3135 single copy orthologs which were used for the phylogenetic analysis described below.These are listed in the text file called single_copy_orthologs_filtered.txt.
 
 
 **TODO** Complete the alignments and consider filtering steps to ensure that only good quality alignments are produced. The step below are yet to be completed. Seems to be quite a few genes with premature stop codons, consider removing these.
+
+Next, I aligned the CDS orthologs aligned using muscle v3.8.31 .
 
 	$ qsub qsub_align_orthologs.sh
 	
